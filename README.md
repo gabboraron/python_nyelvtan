@@ -1,7 +1,7 @@
 # Python nyelvtan alapok
 Egy python nyelvi elemekkel fogallkozó kurzus jegyzete.
 
-**Részletesebb leírások a [wikiben]**(https://github.com/gabboraron/python_nyelvtan/wiki)
+**Részletesebb leírások a** [**Wikiben**](https://github.com/gabboraron/python_nyelvtan/wiki)
 
 ***
 ## Tartalom
