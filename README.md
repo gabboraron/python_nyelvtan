@@ -13,4 +13,15 @@ Egy python nyelvi elemekkel fogallkozó kurzus jegyzete.
 
 ***
 ### Adatfeldolgozás és vizualizáció
-* [`Numpy` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Numpy-alapok)
+* [`Numpy` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Numpy-alapok) Tömb, mátrix kezelés
+* [`Pandas` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok)
+  * [`Series`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#series)
+  * [`DataFrame`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#dataframe)
+  * [Üres értékek kezelése](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#%C3%9Cres-%C3%A9rt%C3%A9kek-kezel%C3%A9se)
+  * [`grpupby`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#groupby)
+  * [`joinn`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#join)
+  * [`concat`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#concat)
+  * [`merge()`](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#merge)
+  * [fájlkezelés](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#f%C3%A1jlkezel%C3%A9s)
+  * [egyéb függvények](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#egy%C3%A9b)
+* [`Matplotlib` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Matplotlib-alapok) 
