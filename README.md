@@ -25,3 +25,7 @@ Egy python nyelvi elemekkel fogallkozó kurzus jegyzete.
   * [fájlkezelés](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#f%C3%A1jlkezel%C3%A9s)
   * [egyéb függvények](https://github.com/gabboraron/python_nyelvtan/wiki/Pandas-alapok#egy%C3%A9b)
 * [`Matplotlib` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Matplotlib-alapok) 
+  * [`plot` használatával](https://github.com/gabboraron/python_nyelvtan/wiki/Matplotlib-alapok#plot-haszn%C3%A1lat%C3%A1val)
+  * [`figure` használatával](https://github.com/gabboraron/python_nyelvtan/wiki/Matplotlib-alapok#figure-haszn%C3%A1lat%C3%A1val)
+  * [részletes példák](https://github.com/gabboraron/python_nyelvtan/wiki/Matplotlib-alapok#r%C3%A9szletes-p%C3%A9ld%C3%A1k)
+* [`Seaborn` alapok](https://github.com/gabboraron/python_nyelvtan/wiki/Seaborn)
